@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BecerrilViewTool::Renderer.copyright 'Cristian Becerril', 'All rights reserved'
+```
 
 ## Development
 
